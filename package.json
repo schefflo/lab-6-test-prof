@@ -16,6 +16,6 @@
     "@vitejs/plugin-vue": "^4.0.0",
     "chromedriver": "^112.0.1",
     "vite": "^4.1.4",
-    "nightwatch": "^2.6.20",
+    "nightwatch": "^2.6.20"
   }
 }
