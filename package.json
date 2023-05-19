@@ -14,8 +14,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
-    "chromedriver": "^112.0.1",
-    "vite": "^4.1.4",
-    "nightwatch": "^2.6.20"
+    "chromedriver": "^113.0.0",
+    "nightwatch": "^2.6.21",
+    "vite": "^4.1.4"
   }
 }
